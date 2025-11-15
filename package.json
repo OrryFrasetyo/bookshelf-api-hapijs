@@ -8,8 +8,14 @@
     "start-dev": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "bookshelf",
+    "api",
+    "books",
+    "hapi.js",
+    "nodejs"
+  ],
+  "author": "Orry Frasetyo",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
